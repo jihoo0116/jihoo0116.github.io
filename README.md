@@ -18,3 +18,8 @@ Static website ready for GitHub Pages.
 - Add public publication links when available.
 - Add live dashboard links once deployed.
 - Add more case study pages or sections as your portfolio grows.
+
+
+## 2026 polish update
+
+This version fixes typos, sharpens recruiter-facing language, uses unique case-study section IDs, and cleans up case-study labels.
