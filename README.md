@@ -1,20 +1,15 @@
-# Daniel Kim Portfolio Website
+# Daniel Kim Personal Website
 
-Static website ready for GitHub Pages.
+This version is designed to match the homepage mockup:
+- concise hero section
+- professional headshot
+- What I Do
+- Featured Work
+- Work in Numbers
+- Experience and Contact
+- no "Why Hire Me" section
 
-## Publish with GitHub Pages
+## Publish on GitHub Pages
+Upload these files to your GitHub Pages repository root, then enable GitHub Pages from Settings > Pages.
 
-1. Create a GitHub repository named `danielkim0116.github.io`.
-2. Upload `index.html`, `styles.css`, `script.js`, and the `assets/` folder to the repository root.
-3. Add your latest resume as `assets/Daniel_Kim_Resume.pdf`.
-4. Go to **Settings → Pages**.
-5. Under **Build and deployment**, select **Deploy from a branch**.
-6. Choose branch **main** and folder **/root**, then save.
-7. Your site should publish at `https://danielkim0116.github.io/`.
-
-## Edit before publishing
-
-- Replace contact email if needed.
-- Add public publication links when available.
-- Add live dashboard links once deployed.
-- Add more case study pages or sections as your portfolio grows.
+Replace `assets/Daniel_Kim_Resume.pdf` with the real resume file before publishing.
