@@ -96,3 +96,42 @@
   max-height: 210px;
   object-fit: contain;
 }
+
+
+
+/* Selected Work buttons */
+.project-card > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-card .tags {
+  margin-top: auto;
+}
+
+.card-button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 40px;
+  margin-top: 16px;
+  padding: 0 14px;
+  border-radius: 10px;
+  background: var(--navy);
+  color: #fff;
+  font-weight: 800;
+  font-size: .88rem;
+  border: 1px solid var(--navy);
+  transition: transform .16s ease, box-shadow .16s ease;
+}
+
+.card-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(8,36,92,.18);
+}
+
+@media (max-width: 620px) {
+  .card-button {
+    width: 100%;
+  }
+}
