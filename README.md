@@ -1,29 +1,20 @@
-# Daniel Kim GitHub Pages Website
+# Daniel Kim Portfolio Website
 
-This ZIP is ready for GitHub Pages and has the files at the repository root.
+Static website ready for GitHub Pages.
 
-## Upload instructions
+## Publish with GitHub Pages
 
-Upload the contents of this ZIP directly to the root of your GitHub repository:
+1. Create a GitHub repository named `danielkim0116.github.io`.
+2. Upload `index.html`, `styles.css`, `script.js`, and the `assets/` folder to the repository root.
+3. Add your latest resume as `assets/Daniel_Kim_Resume.pdf`.
+4. Go to **Settings → Pages**.
+5. Under **Build and deployment**, select **Deploy from a branch**.
+6. Choose branch **main** and folder **/root**, then save.
+7. Your site should publish at `https://danielkim0116.github.io/`.
 
-- `index.html`
-- `styles.css`
-- `script.js`
-- `assets/`
+## Edit before publishing
 
-Do not upload the ZIP as a folder inside the repository. GitHub Pages should see `index.html` at the root.
-
-## GitHub Pages settings
-
-1. Go to your repository on GitHub.
-2. Open **Settings**.
-3. Open **Pages**.
-4. Under **Build and deployment**, select:
-   - Source: **Deploy from a branch**
-   - Branch: **main**
-   - Folder: **/root**
-5. Save.
-
-## Resume
-
-Replace `assets/Daniel_Kim_Resume.pdf` with your latest resume PDF before sharing the site widely.
+- Replace contact email if needed.
+- Add public publication links when available.
+- Add live dashboard links once deployed.
+- Add more case study pages or sections as your portfolio grows.
